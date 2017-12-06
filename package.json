@@ -1,0 +1,10 @@
+{
+    "name": "lawtext-on-heroku",
+    "version": "1.0.0",
+    "dependencies": {
+      "nunjucks": ">=3.0.1"
+    },
+    "scripts": {
+      "postinstall": "python build_htmlapp.py"
+    }
+}

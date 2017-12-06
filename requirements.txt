@@ -1,0 +1,10 @@
+dj-database-url==0.4.2
+Django==2.0
+gunicorn==19.7.1
+psycopg2==2.7.3.2
+python-dotenv==0.7.1
+requests==2.18.4
+tqdm==4.19.4
+Transcrypt==3.6.58
+whitenoise==3.3.1
+git+https://github.com/yamachig/lawtext
